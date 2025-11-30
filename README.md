@@ -1,2 +1,2 @@
 # team_admin
- git cours team admin
+ git cours team admin pull request lesson
